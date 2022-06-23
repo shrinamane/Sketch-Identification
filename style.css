@@ -1,0 +1,10 @@
+body {
+    text-align:center;
+    background-color: rgb(252, 252, 173);
+}
+#sketch {
+    float: right;
+}
+h1 {
+    background-color: rgb(59, 190, 59);
+}
